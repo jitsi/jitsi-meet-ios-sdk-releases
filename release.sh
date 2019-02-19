@@ -20,6 +20,7 @@ rm -rf Frameworks/*
 pushd ../jitsi-meet
 rm -rf ios/sdk/JitsiMeet.framework
 xcodebuild -workspace ios/jitsi-meet.xcworkspace -scheme JitsiMeet -destination='generic/platform=iOS' -configuration Release archive
+git tag ios-sdk-${VERSION}
 popd
 
 # Put the new files in the repo
@@ -33,6 +34,7 @@ git tag ${VERSION}
 
 echo "Done!"
 echo "You can now push all changes to git by doing: git push && git push --tags"
+echo "Also push the tag in the jitsi-meet repo: cd ../jitsi-meed && git push --tags"
 echo "The new pod can be pushed to CocoaPods by doing: pod trunk push JitsiMeetSDK.podspec"
 echo "Don't forget to update the changelog!"
 
