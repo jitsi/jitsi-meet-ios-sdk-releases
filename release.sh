@@ -29,7 +29,7 @@ cp -r ../jitsi-meet/node_modules/react-native-webrtc/ios/WebRTC.framework Framew
 # Add all files to git
 git add -A
 git commit -a -m "${VERSION}"
-git tag -a -m "${VERSION}" ${VERSION}
+git tag ${VERSION}
 
 echo "Done!"
 echo "You can now push all changes to git by doing: git push && git push --tags"
