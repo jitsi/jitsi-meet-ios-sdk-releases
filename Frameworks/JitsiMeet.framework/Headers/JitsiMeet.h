@@ -18,6 +18,8 @@
 #import <JitsiMeet/JitsiMeetView.h>
 #import <JitsiMeet/JitsiMeetViewDelegate.h>
 #import <JitsiMeet/JitsiMeetConferenceOptions.h>
+#import <JitsiMeet/JitsiMeetLogger.h>
+#import <JitsiMeet/JitsiMeetBaseLogHandler.h>
 
 
 @interface JitsiMeet : NSObject
@@ -42,7 +44,7 @@
  */
 @property (nonatomic, nullable) JitsiMeetConferenceOptions *defaultConferenceOptions;
 
-#pragma mak - This class is a singleton
+#pragma mark - This class is a singleton
 
 + (instancetype _Nonnull)sharedInstance;
 
