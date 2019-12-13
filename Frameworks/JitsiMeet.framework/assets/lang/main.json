@@ -47,8 +47,10 @@
     },
     "chat": {
         "error": "Error: your message was not sent. Reason: {{error}}",
+        "fieldPlaceHolder": "Type your message here",
         "messagebox": "Type a message",
         "messageTo": "Private message to {{recipient}}",
+        "noMessagesMessage": "There are no messages in the meeting yet. Start a conversation here!",
         "nickname": {
             "popover": "Choose a nickname",
             "title": "Enter a nickname to use chat"
@@ -628,6 +630,10 @@
         "lowerYourHand": "Lower your hand",
         "moreActions": "More actions",
         "mute": "Mute / Unmute",
+
+        "noAudioSignalTitle": "There is no input coming from your mic!",
+        "noAudioSignalDesc": "If you did not purposely mute it from system settings or hardware, consider changing the device.",
+        "noAudioSignalDescSuggestion": "If you did not purposely mute it from system settings or hardware, consider using the following device:",
         "openChat": "Open chat",
         "pip": "Enter Picture-in-Picture mode",
         "privateMessage": "Send private message",
@@ -734,7 +740,7 @@
         "roomNameAllowedChars": "Meeting name should not contain any of these characters: ?, &, :, ', \", %, #.",
         "go": "GO",
         "goSmall": "GO",
-        "join": "JOIN",
+        "join": "CREATE / JOIN",
         "info": "Info",
         "privacy": "Privacy",
         "recentList": "Recent",
