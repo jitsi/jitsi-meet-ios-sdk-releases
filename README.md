@@ -17,7 +17,7 @@ do so, add the `JitsiMeetSDK` dependency to your existing `Podfile` or create
 a new one following this example:
 
 ```
-platform :ios, '10.0'
+platform :ios, '11.0'
 
 workspace 'JitsiMeetSDKTest.xcworkspace'
 
