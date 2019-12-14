@@ -47,6 +47,9 @@ Since the SDK requests camera and microphone access, make sure to include the
 required entries for `NSCameraUsageDescription` and `NSMicrophoneUsageDescription`
 in your `Info.plist` file.
 
+In order for app to properly work in the background, select the "audio" and "voip"
+background modes.
+
 Last, since the SDK shows and hides the status bar based on the conference state,
 you may want to set `UIViewControllerBasedStatusBarAppearance` to `NO` in your
 `Info.plist` file.
