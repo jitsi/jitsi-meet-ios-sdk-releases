@@ -56,7 +56,7 @@ you may want to set `UIViewControllerBasedStatusBarAppearance` to `NO` in your
 
 ## API
 
-The API is documented [here]().
+The API is documented [here](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-ios-sdk).
 
 ## Issues
 
