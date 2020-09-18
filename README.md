@@ -64,5 +64,3 @@ Please report all issues related to this SDK to the [Jitsi Meet]() repository.
 
 [CocoaPods]: https://cocoapods.org
 [Jitsi Meet]: https://github.com/jitsi/jitsi-meet
-[here]: https://github.com/jitsi/jitsi-meet/blob/master/ios/README.md
-
