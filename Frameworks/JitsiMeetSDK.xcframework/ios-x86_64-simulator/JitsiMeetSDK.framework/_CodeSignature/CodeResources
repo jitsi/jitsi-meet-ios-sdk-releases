@@ -412,7 +412,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		r9cBuVeuUGILDIdawykVUQm48XI=
+		RdIbE37ZG7VQtPP+f0QY9hZT+mQ=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -424,7 +424,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aF6iF2Ih8E6Xi5gTR/NsjHJHbsk=
+		vQPh34n0CmRo4vYPbTH/BjT8tI8=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -436,7 +436,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		aF6iF2Ih8E6Xi5gTR/NsjHJHbsk=
+		vQPh34n0CmRo4vYPbTH/BjT8tI8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -764,7 +764,7 @@
 		</data>
 		<key>assets/node_modules/css-tree/package.json</key>
 		<data>
-		k9IjtK5cTP9rseMJ5RLvOfTCv4w=
+		Kklz2fZqzxgmZ4KrtVMk6PfT3E8=
 		</data>
 		<key>assets/node_modules/dom-serializer/foreignNames.json</key>
 		<data>
@@ -792,11 +792,11 @@
 		</data>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<data>
-		vYcR3oqcmzJPEcbHQacJ3TE+Q/A=
+		foDUQ0CZlyO4VzCFPVAhxRjP5m0=
 		</data>
 		<key>assets/node_modules/react-native/package.json</key>
 		<data>
-		wDQI32j/tulLt7FpSTmH47+QoKM=
+		WIP/J4+k9D0sHZ5kI2Rp/zSbxZ0=
 		</data>
 		<key>image-resize@2x.png</key>
 		<data>
@@ -828,7 +828,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		bSViCN5Bw8ZPbbDtnKIqE4AALHM=
+		+XwzozXd1tgVyW+iJwipPk2lLOM=
 		</data>
 		<key>outgoingRinging.wav</key>
 		<data>
@@ -1325,7 +1325,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UUAtXvapYWhJB5v498g4XnTvDEhNa4q00tb3lYVL5n8=
+			LV7fJpSQiThrgcUjYBUOOEVhSHfqxuwJ8ym7qdrxzdc=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -1346,7 +1346,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UUAtXvapYWhJB5v498g4XnTvDEhNa4q00tb3lYVL5n8=
+			LV7fJpSQiThrgcUjYBUOOEVhSHfqxuwJ8ym7qdrxzdc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1920,7 +1920,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f/LomdygrADRZ1MulHLMAnz16+8ukbpXN5H6wRHi8BA=
+			/5v2wAtVuKLDZpozffSDhgsAy9xyUkzgqms6F+wEyp0=
 			</data>
 		</dict>
 		<key>assets/node_modules/dom-serializer/foreignNames.json</key>
@@ -1969,14 +1969,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DLLMmrgGPJ74mvWgRDU+31zxLrmwaScDz5Qrk1GsDrU=
+			ae3qsjBxPS8Wgbtgpiaklgr97Cx5dvuQ+qcDltBZE7g=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native/package.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0b675JQ31U6jZTMdtKNTwIHo1Ol2BP2BtEfKiqbBY7Q=
+			IYJcwu8TuF4cmcNBJt1/ijJrho3i+pxVcrwfINgyBdo=
 			</data>
 		</dict>
 		<key>image-resize@2x.png</key>
@@ -2032,7 +2032,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ULjFYjtSyJiqhBlV40UF8mJjMqG3PKxmsQJtQWK5u20=
+			aWV6imeK9w0IulYuV3mi9A41Pqkp24jToNvJNWop13M=
 			</data>
 		</dict>
 		<key>outgoingRinging.wav</key>
