@@ -1,5 +1,5 @@
 /*
- *  Copyright 2020 The WebRTC project authors. All Rights Reserved.
+ *  Copyright 2021 The WebRTC project authors. All Rights Reserved.
  *
  *  Use of this source code is governed by a BSD-style license
  *  that can be found in the LICENSE file in the root of the source
@@ -15,7 +15,6 @@
 #import <WebRTC/RTCMacros.h>
 #import <WebRTC/RTCMutableI420Buffer.h>
 #import <WebRTC/RTCMutableYUVPlanarBuffer.h>
-#import <WebRTC/RTCRtpFragmentationHeader.h>
 #import <WebRTC/RTCVideoCapturer.h>
 #import <WebRTC/RTCVideoCodecInfo.h>
 #import <WebRTC/RTCVideoDecoder.h>

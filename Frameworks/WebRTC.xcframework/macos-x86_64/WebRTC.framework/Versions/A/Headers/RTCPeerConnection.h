@@ -10,7 +10,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "RTCMacros.h"
+#import <WebRTC/RTCMacros.h>
 
 @class RTC_OBJC_TYPE(RTCConfiguration);
 @class RTC_OBJC_TYPE(RTCDataChannel);
