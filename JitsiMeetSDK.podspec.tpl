@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.authors          = 'The Jitsi Meet project authors'
   s.source           = { :git => 'https://github.com/jitsi/jitsi-meet-ios-sdk-releases.git', :tag => s.version }
 
-  s.platform         = :ios, '11.0'
+  s.platform         = :ios, '12.0'
 
   s.vendored_frameworks = 'Frameworks/JitsiMeetSDK.xcframework', 'Frameworks/WebRTC.xcframework'
   
