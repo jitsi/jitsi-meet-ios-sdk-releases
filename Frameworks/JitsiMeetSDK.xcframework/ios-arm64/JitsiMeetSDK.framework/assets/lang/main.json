@@ -180,7 +180,8 @@
         "joinInApp": "Join this meeting using the app",
         "launchWebButton": "Launch in web",
         "title": "Launching your meeting in {{app}}...",
-        "tryAgainButton": "Try again in desktop"
+        "tryAgainButton": "Try again in desktop",
+        "unsupportedBrowser": "It looks like you're using a browser we don't support."
     },
     "defaultLink": "e.g. {{url}}",
     "defaultNickname": "ex. Jane Pink",
@@ -418,6 +419,7 @@
         "desktopShareError": "Could not create desktop share",
         "desktopShare":"Desktop share",
         "webAssemblyWarning": "WebAssembly not supported",
+        "webAssemblyWarningDescription": "WebAssembly disabled or not supported by this browser",
         "backgroundEffectError": "Failed to apply background effect."
     },
     "feedback": {
@@ -468,7 +470,7 @@
         "noPassword": "None",
         "noRoom": "No room was specified to dial-in into.",
         "numbers": "Dial-in Numbers",
-        "password": "$t(lockRoomPasswordUppercase):",
+        "password": "$t(lockRoomPasswordUppercase): ",
         "sip": "SIP address",
         "title": "Share",
         "tooltip": "Share link and dial-in info for this meeting",
@@ -607,6 +609,7 @@
         "raisedHands": "{{participantName}} and {{raisedHands}} more people",
         "screenShareNoAudio": " Share audio box was not checked in the window selection screen.",
         "screenShareNoAudioTitle": "Couldn't share system audio!",
+        "selfViewTitle": "You can always un-hide the self-view from settings",
         "somebody": "Somebody",
         "startSilentTitle": "You joined with no audio output!",
         "startSilentDescription": "Rejoin the meeting to enable audio",
@@ -633,9 +636,10 @@
         "moderationToggleDescription": "by {{participantDisplayName}}",
         "raiseHandAction": "Raise hand",
         "reactionSounds": "Disable sounds",
+        "reactionSoundsForAll": "Disable sounds for all",
         "groupTitle": "Notifications",
-        "videoUnmuteBlockedTitle": "Camera unmute blocked!",
-        "videoUnmuteBlockedDescription": "Camera unmute operation has been temporarily blocked because of system limits."
+        "videoUnmuteBlockedTitle": "Camera unmute and desktop sharing blocked!",
+        "videoUnmuteBlockedDescription": "Camera unmute and desktop sharing operation have been temporarily blocked because of system limits."
     },
     "participantsPane": {
         "close": "Close",
@@ -660,7 +664,8 @@
             "stopEveryonesVideo": "Stop everyone's video",
             "stopVideo": "Stop video",
             "unblockEveryoneMicCamera": "Unblock everyone's mic and camera",
-            "videoModeration": "Start their video"
+            "videoModeration": "Start their video",
+            "moreModerationControls": "More moderation controls"
         },
         "search": "Search participants"
     },
@@ -819,8 +824,8 @@
     "security": {
         "about": "You can add a $t(lockRoomPassword) to your meeting. Participants will need to provide the $t(lockRoomPassword) before they are allowed to join the meeting.",
         "aboutReadOnly": "Moderator participants can add a $t(lockRoomPassword) to the meeting. Participants will need to provide the $t(lockRoomPassword) before they are allowed to join the meeting.",
-        "insecureRoomNameWarning": "The room name is unsafe. Unwanted participants may join your conference. Consider securing your meeting using the security button.",
-        "securityOptions": "Security options"
+        "header": "Security Options",
+        "insecureRoomNameWarning": "The room name is unsafe. Unwanted participants may join your conference. Consider securing your meeting using the security button."
     },
     "settings": {
         "calendar": {
@@ -855,6 +860,7 @@
         "sounds": "Sounds",
         "speakers": "Speakers",
         "startAudioMuted": "Everyone starts muted",
+        "startReactionsMuted": "Mute reaction sounds for everyone",
         "startVideoMuted": "Everyone starts hidden",
         "talkWhileMuted": "Talk while muted",
         "title": "Settings"
@@ -887,20 +893,20 @@
     },
     "speaker": "Speaker",
     "speakerStats": {
-        "search": "Search",
+        "angry": "Angry",
+        "disgusted": "Disgusted",
+        "fearful": "Fearful",
+        "happy": "Happy",
         "hours": "{{count}}h",
         "minutes": "{{count}}m",
         "name": "Name",
-        "seconds": "{{count}}s",
-        "speakerStats": "Speaker Stats",
-        "speakerTime": "Speaker Time",
-        "happy": "Happy",
         "neutral": "Neutral",
         "sad": "Sad",
-        "surprised": "Surprised",
-        "angry": "Angry",
-        "fearful": "Fearful",
-        "disgusted": "Disgusted"
+        "search": "Search",
+        "seconds": "{{count}}s",
+        "speakerTime": "Speaker Time",
+        "speakerStats": "Speaker Stats",
+        "surprised": "Surprised"
     },
     "startupoverlay": {
         "policyText": " ",
@@ -1120,6 +1126,7 @@
         "domuteVideoOfOthers": "Disable camera of everyone else",
         "flip": "Flip",
         "grantModerator": "Grant Moderator Rights",
+        "hideSelfView": "Hide self view",
         "kick": "Kick out",
         "moderator": "Moderator",
         "mute": "Participant is muted",
