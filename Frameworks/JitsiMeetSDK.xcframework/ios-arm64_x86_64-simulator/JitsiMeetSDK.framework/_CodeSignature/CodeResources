@@ -6,11 +6,11 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		2eSnho0N4s3SjsjvtbHJJBznq7M=
+		sPP/t4DGBKyHnCSoCeqoCYCmpPo=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		rCY5KvoM4444nv4KsAInt70Vxlg=
+		U+rry71ruH37BS49aDB3csgjKcY=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		E9R4+54iHEirUJkKCjVhbjPHaJY=
+		1C4yhtQ+w+UwFEXF/vO2LavAwHM=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -47,7 +47,7 @@
 		</data>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
-		b5jgITxvuAD9k4xfRtQ6+Hqt7sA=
+		OkKwNqHe0K2eVg9163BDYeX9/TE=
 		</data>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -55,7 +55,7 @@
 		</data>
 		<key>GoogleSignIn.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		Kqu92KkqaLL8wjIje/Hod9r9spo=
+		GdR9HL9lJ9fcFv90Ok3jwbPswro=
 		</data>
 		<key>GoogleSignIn.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -63,7 +63,7 @@
 		</data>
 		<key>GoogleSignIn.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		vIfaNSv9R/jDOPxq0uGIFsj87ho=
+		s6xES4kYSm/SEq3qiNngjTxOZrk=
 		</data>
 		<key>GoogleSignIn.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -473,7 +473,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ySR74hTG4zs+Y0q17dZSCjlDk0E=
+		82XF08e0cNx+tTtD0OL2pAn5L+M=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -485,7 +485,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KA0aDlJZhyDl0DN3AzErhaLwf6g=
+		0p8N4DdnqwVw/U3RlmXhxkxDcWA=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -497,7 +497,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		KA0aDlJZhyDl0DN3AzErhaLwf6g=
+		0p8N4DdnqwVw/U3RlmXhxkxDcWA=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -509,7 +509,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		h6pXiK5A5XvGLprGJeaRlEKmL40=
+		3fbiWlUIX5ea5H76XC5gdt0uaKI=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -521,7 +521,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		h6pXiK5A5XvGLprGJeaRlEKmL40=
+		3fbiWlUIX5ea5H76XC5gdt0uaKI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -530,6 +530,14 @@
 		<key>asked-unmute.mp3</key>
 		<data>
 		DkXyAdb/nuiSBpjtmdtjt8Hxs9I=
+		</data>
+		<key>assets/images/GIPHY_icon.png</key>
+		<data>
+		RXtKCVwkY1q5/n35PdqCjEWJ02Y=
+		</data>
+		<key>assets/images/GIPHY_logo.png</key>
+		<data>
+		34ZlX66tVsjue/mb6cIczASQ9+c=
 		</data>
 		<key>assets/images/avatar.png</key>
 		<data>
@@ -629,7 +637,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		Yame+KYrKHDAOeRK2WRVF36EdY4=
+		uofrhqCnS3YkFtkNT9oZszZ/6Lg=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -706,14 +714,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jvDh7BD5hoW57zT2lJAU6v7K7Jc1AeNHLdH4vquEnvg=
+			yBnA7e9Vhjs0Auc6x1puKhNpaQsjuA5bAi3A0OoEqMc=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XwSQ1JY04UGSOqGIN9g3tRLgaP7bnuBQZx0WjATJp8g=
+			/4KUZ45XoWPHG0Q2R2Oiwu/bKW38B7YcFPVFcTS1exI=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -727,7 +735,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MdBtvYK2qmFXnfRyjitMO1oONMtI1oaA28uBb21dqg4=
+			A9+B1iwvcffDGHFo2bFwehG+RpYc6D5BOsvic5rpNjk=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
@@ -771,7 +779,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0LwDvwu6iKDQG8jH84DQ+T/WraKgUvFvk0F2+npXSMY=
+			91PKUdCZtxHG747SygQLzHudi0eAcmSftrqf1qQR9cc=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
@@ -785,7 +793,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bDqLoAF0HxwNx+4tKB+o5f8kHGv9SxgPv25tR640fKk=
+			3aSY+QAeKHqYLguBvrPGsfFzToyDJgqPFQ5vMNGDgu8=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/_CodeSignature/CodeRequirements</key>
@@ -799,7 +807,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pKmAVLCq/c4Z9XTcGZv1AMJri68EZqc6oSKKucBqX1o=
+			j2oUl77a2ONVRi1ncjxdQlIW/Zjx5nAdx1X7WzgqbBE=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/_CodeSignature/CodeResources</key>
@@ -1274,7 +1282,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rYosn9m2pbIeW3u6229/OxWmYtkQkTGpbY2Twz2QOoU=
+			K+Yo/28EUmeb1wfUxJEe102oI2bc5b/c7lT9ktMp3bc=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftdoc</key>
@@ -1295,7 +1303,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rYosn9m2pbIeW3u6229/OxWmYtkQkTGpbY2Twz2QOoU=
+			K+Yo/28EUmeb1wfUxJEe102oI2bc5b/c7lT9ktMp3bc=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1316,7 +1324,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+27pKqsg/6qgwIQASOaMUjYzKnmtv/KKD0PeWVn66gk=
+			s+0cCGoaiMF7drK60o2Zg7qVW6sTKP00oIiubuYQLug=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -1337,7 +1345,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+27pKqsg/6qgwIQASOaMUjYzKnmtv/KKD0PeWVn66gk=
+			s+0cCGoaiMF7drK60o2Zg7qVW6sTKP00oIiubuYQLug=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1352,6 +1360,20 @@
 			<key>hash2</key>
 			<data>
 			xEN/UF+sWbVUj9o8J8Cn7dtwDcKERpbiGhzUht3AFVA=
+			</data>
+		</dict>
+		<key>assets/images/GIPHY_icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LcipexprGKbI/q7luoaUwTowk5LpQUBZVUzejtkE9qU=
+			</data>
+		</dict>
+		<key>assets/images/GIPHY_logo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/OdoA0mz7LY+6ZmdFy/MiNF6UDdKCACryxap0Xd3uDU=
 			</data>
 		</dict>
 		<key>assets/images/avatar.png</key>
@@ -1526,7 +1548,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jTXJHgH3UbegaBZU9ltIlwORioemBR2jNbUgPRcXBeU=
+			Ab1Ljnn3+R93KfNtuhE2qjlSVKS1nxRKOphLi0Kc0Q4=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
