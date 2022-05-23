@@ -477,51 +477,51 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZJdrtEwHOMNfCbb3naR4WbWHInw=
+		fYdPhwI3spfSECQVeKMcCncLtws=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		kOMOHNc2gZyt8r8AoOVVJNMTK4w=
+		42rf25xw9XLTeobZ/da9jDnpICg=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		W63rzEF28OpCA/pLQegoVzNMhMo=
+		hZaei4L2BsngQx5s7h8rJKLE6hM=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		ZJdrtEwHOMNfCbb3naR4WbWHInw=
+		fYdPhwI3spfSECQVeKMcCncLtws=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		kOMOHNc2gZyt8r8AoOVVJNMTK4w=
+		42rf25xw9XLTeobZ/da9jDnpICg=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		W63rzEF28OpCA/pLQegoVzNMhMo=
+		hZaei4L2BsngQx5s7h8rJKLE6hM=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		OBEABSAeVROimkVZkxIjw2vCR6U=
+		5FFtYypgljuHC3V2LVfD2Qrz6qs=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9aRFmCdYb3y0twWLoCCZ6HsxKo8=
+		f7etCWf2yfMkM4x+VIMBZ9W5YkE=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gymX0gy8DLlsZTZIXK6BKfeEAS4=
+		J9HzVs3tj3UYF3/nOsXuKlTAkfQ=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		OBEABSAeVROimkVZkxIjw2vCR6U=
+		5FFtYypgljuHC3V2LVfD2Qrz6qs=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		9aRFmCdYb3y0twWLoCCZ6HsxKo8=
+		f7etCWf2yfMkM4x+VIMBZ9W5YkE=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		gymX0gy8DLlsZTZIXK6BKfeEAS4=
+		J9HzVs3tj3UYF3/nOsXuKlTAkfQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -633,7 +633,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		1d5Ik+tnnwbhCi0FDBWh0n8PqdU=
+		iQ5IwFQIHzyZtbv2MwAT+DXgo/A=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -1264,84 +1264,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8hW+Qxg1HsM5YqMnm9RkejmrVeXSJdamrf/JGu01a20=
+			gFtFU9/YawT0tdmKIH2pywrCnUd8Zi/ZQkcdF+EXwSA=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7UJSm9LvrECp3j0FRbcRyteRVoy7BCh2NA8RQQpe3is=
+			lQOpYZWjAKEUkdykoh0R0LpjQzI3vBsOJ5gPQfkWQlI=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JErmMk5lrv6K82dw10/CheI/6druaQ4i1DIYYsHo0tY=
+			6FT7LO3BS71/z0t/cuFsTwtn72j8XGDybTp/6jMo3i4=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8hW+Qxg1HsM5YqMnm9RkejmrVeXSJdamrf/JGu01a20=
+			gFtFU9/YawT0tdmKIH2pywrCnUd8Zi/ZQkcdF+EXwSA=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7UJSm9LvrECp3j0FRbcRyteRVoy7BCh2NA8RQQpe3is=
+			lQOpYZWjAKEUkdykoh0R0LpjQzI3vBsOJ5gPQfkWQlI=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JErmMk5lrv6K82dw10/CheI/6druaQ4i1DIYYsHo0tY=
+			6FT7LO3BS71/z0t/cuFsTwtn72j8XGDybTp/6jMo3i4=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IEfxMbWheWiQtgtwFK4J/c6x03qpqa2Dwc8XZYidor4=
+			nijDU0iua5KJ2OHOVin1LrpUbdihhfmApfBHnv7C5OE=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hIMxZnpI6134DU337q9DwM6ri4TQ1bA3fgRHXwRakp0=
+			5IuntN/7T4vKN//uSx8UxvbPQDgGDArtMutywn+ZQ0w=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UVyfwe6vRlBvA/zW2eWCCiprXM5Lfs8l+2CWxEbqpo4=
+			aIA9uA2ldQLzOtJNHoWDgUg9eXKHHkcsswFA9AcMuSs=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IEfxMbWheWiQtgtwFK4J/c6x03qpqa2Dwc8XZYidor4=
+			nijDU0iua5KJ2OHOVin1LrpUbdihhfmApfBHnv7C5OE=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hIMxZnpI6134DU337q9DwM6ri4TQ1bA3fgRHXwRakp0=
+			5IuntN/7T4vKN//uSx8UxvbPQDgGDArtMutywn+ZQ0w=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UVyfwe6vRlBvA/zW2eWCCiprXM5Lfs8l+2CWxEbqpo4=
+			aIA9uA2ldQLzOtJNHoWDgUg9eXKHHkcsswFA9AcMuSs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1537,7 +1537,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ojsp23amh+yb8pKSvY2gS5wWjNKvsEbulDBztF/jBlo=
+			TpMlISI0AGtn1E1U9/fF/opEhxpu+h9lzn4Spym41KU=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>

@@ -13,10 +13,6 @@ public protocol PiPViewCoordinatorDelegate : AnyObject {
   func exitPictureInPicture()
 }
 public class PiPViewCoordinator {
-  public var dragBoundInsets: UIKit.UIEdgeInsets {
-    get
-    set
-  }
   public enum Position {
     case lowerRightCorner
     case upperRightCorner
@@ -28,7 +24,10 @@ public class PiPViewCoordinator {
       get
     }
   }
-  public var initialPositionInSuperview: JitsiMeetSDK.PiPViewCoordinator.Position
+  public var dragBoundInsets: UIKit.UIEdgeInsets {
+    get
+    set
+  }
   @available(*, deprecated, message: "The PiP window size is now fixed to 150px.")
   public var c: CoreGraphics.CGFloat
   weak public var delegate: JitsiMeetSDK.PiPViewCoordinatorDelegate?
