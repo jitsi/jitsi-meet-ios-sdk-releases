@@ -451,10 +451,6 @@
 		<data>
 		WwKeJCkm5XEcVUkq7O1te9iU1gQ=
 		</data>
-		<key>Headers/JitsiMeetSDK-Swift.h</key>
-		<data>
-		J4fJnRXPkqz1Wddtp7KsG74xWZ0=
-		</data>
 		<key>Headers/JitsiMeetSDK.h</key>
 		<data>
 		ne5yYBsa6ObKLzD7Uj91LIemXK4=
@@ -473,7 +469,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		J4T3E6Qdcn1ykc+ru4zgXAIFfNE=
+		QAoN2Dj6JzRnGRzlgdSsSaMtJ6A=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -485,7 +481,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HO7NZ37PbZqiKFj2I7ShTy6dRCQ=
+		wx+QwCGOz8lZUHAexJI36FKPZo4=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -497,7 +493,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		HO7NZ37PbZqiKFj2I7ShTy6dRCQ=
+		wx+QwCGOz8lZUHAexJI36FKPZo4=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -509,7 +505,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cWz2pLYFiZLB9nu82MTGV7o/gyQ=
+		KasCfXtiCIexmVHmorlpFjTurzo=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -521,11 +517,11 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		cWz2pLYFiZLB9nu82MTGV7o/gyQ=
+		KasCfXtiCIexmVHmorlpFjTurzo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		/+b4UhCty56CAy58FleFb6Guwvw=
+		AQWoEreXXmrAdz/vCZTQYIfi6Fw=
 		</data>
 		<key>asked-unmute.mp3</key>
 		<data>
@@ -567,18 +563,6 @@
 		<data>
 		i5KKHxhNhQ39jzaLKQTpiyBHp48=
 		</data>
-		<key>assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon.png</key>
-		<data>
-		a8nug0H9R2Y8ppEtXDOEfjutLEg=
-		</data>
-		<key>assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@2x.png</key>
-		<data>
-		rcFtmND8AvDvPUVimMZk5wetZhc=
-		</data>
-		<key>assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@3x.png</key>
-		<data>
-		FbLoiLrCjv+UzjmjmdZtkD1qcwc=
-		</data>
 		<key>assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png</key>
 		<data>
 		/9xO1HOyvigG6Z0PaA0dLp/gDlY=
@@ -595,19 +579,19 @@
 		<data>
 		8kFG8Vv7Hfrw4yVcFrhUhbHieBA=
 		</data>
-		<key>assets/node_modules/@react-navigation/native-stack/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png</key>
+		<key>assets/node_modules/@react-navigation/stack/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png</key>
 		<data>
 		/9xO1HOyvigG6Z0PaA0dLp/gDlY=
 		</data>
-		<key>assets/node_modules/@react-navigation/native-stack/node_modules/@react-navigation/elements/src/assets/back-icon.png</key>
+		<key>assets/node_modules/@react-navigation/stack/node_modules/@react-navigation/elements/src/assets/back-icon.png</key>
 		<data>
 		keLOi1inJdXs0IRSKnXqyhW57Aw=
 		</data>
-		<key>assets/node_modules/@react-navigation/native-stack/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png</key>
+		<key>assets/node_modules/@react-navigation/stack/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png</key>
 		<data>
 		rSvG8m4uPMSItIcsIF+N2tDJD8U=
 		</data>
-		<key>assets/node_modules/@react-navigation/native-stack/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png</key>
+		<key>assets/node_modules/@react-navigation/stack/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png</key>
 		<data>
 		8kFG8Vv7Hfrw4yVcFrhUhbHieBA=
 		</data>
@@ -653,7 +637,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		KXbZrnrAWDB18s0ipZqICZZPHxs=
+		6JOtfTn60PRmSey3hyKL/hTFvR8=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -1245,13 +1229,6 @@
 			AvRQW0hstvQvYV73z2vI+UrH/+iYN9th5QtzRSs1tTA=
 			</data>
 		</dict>
-		<key>Headers/JitsiMeetSDK-Swift.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			unXWjhCAJXFfrWveyNPDkMdyztGwgMVcmouG0lJcOIc=
-			</data>
-		</dict>
 		<key>Headers/JitsiMeetSDK.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1298,7 +1275,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pcq02AeYcIt4vEznpjcBET8mB2t1FbKR+lzsTPGGhHc=
+			bd28z0YI1ndlLtOZNVp16QKkgdS29GjYfvAl0XPT3h4=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64.swiftdoc</key>
@@ -1319,7 +1296,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pcq02AeYcIt4vEznpjcBET8mB2t1FbKR+lzsTPGGhHc=
+			bd28z0YI1ndlLtOZNVp16QKkgdS29GjYfvAl0XPT3h4=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1340,7 +1317,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WbBjg15M0L6xkhhPlbqfmjXG49ltDXuI4NgKGbGxzQ4=
+			sgPXxYGtyirOb5BFsfxalWt6URkr9/0Mku8dBFjbbrg=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -1361,14 +1338,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WbBjg15M0L6xkhhPlbqfmjXG49ltDXuI4NgKGbGxzQ4=
+			sgPXxYGtyirOb5BFsfxalWt6URkr9/0Mku8dBFjbbrg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qvXZc6aDBcASCfzO2uC+9uJ3dKreCyHl5XQWR3AKwMU=
+			MPhxIi68eCJOR+PHSWcWowJIiyKz6gH1hnIe6N2Agyc=
 			</data>
 		</dict>
 		<key>asked-unmute.mp3</key>
@@ -1441,27 +1418,6 @@
 			u+XQsDMSOwXb8FGalnlx4IUbKhloeln1bNi6KIkrMmA=
 			</data>
 		</dict>
-		<key>assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			N/pfJVE0il60FHWie8jOeIBAo+87MjEYXHhsBYQnSAk=
-			</data>
-		</dict>
-		<key>assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Wk4paoEO3uI7usXxNnG+ZtPSQVZLZ9EFQ5UjKrmkraU=
-			</data>
-		</dict>
-		<key>assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			e1afBN99EXEwn2WAY7+kt2AS077pKrAmG/8alYuKLLM=
-			</data>
-		</dict>
 		<key>assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1490,28 +1446,28 @@
 			Pd0Hc+0n4j0leJ8wFzGzrEVa2L5aonoKG4OPicbSciU=
 			</data>
 		</dict>
-		<key>assets/node_modules/@react-navigation/native-stack/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png</key>
+		<key>assets/node_modules/@react-navigation/stack/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			LJXowmdeeZM1/QBGuwfb2gbLfs/1HtN5IsYwnWGcxNM=
 			</data>
 		</dict>
-		<key>assets/node_modules/@react-navigation/native-stack/node_modules/@react-navigation/elements/src/assets/back-icon.png</key>
+		<key>assets/node_modules/@react-navigation/stack/node_modules/@react-navigation/elements/src/assets/back-icon.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			LN/rjlzN55dvcBL7jM5zryIpAp7iHU8VCf7RFIccbNg=
 			</data>
 		</dict>
-		<key>assets/node_modules/@react-navigation/native-stack/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png</key>
+		<key>assets/node_modules/@react-navigation/stack/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			K3RDqaWOksoRpXW9wRWYYVpX3eMFzYznDWAmBrMCzZg=
 			</data>
 		</dict>
-		<key>assets/node_modules/@react-navigation/native-stack/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png</key>
+		<key>assets/node_modules/@react-navigation/stack/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -1592,7 +1548,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3fk2eU7wxR2XKUpvYXkqoAwokmvRcKtHkgv1+T2E/2g=
+			u5MhRYyjXxJxDAogm+aZuYVN3/3U5+ji7vr1AifwfwU=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
