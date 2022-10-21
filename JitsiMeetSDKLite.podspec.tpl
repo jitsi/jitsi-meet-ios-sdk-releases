@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.platform         = :ios, '12.0'
   s.swift_version    = '5'
   s.vendored_frameworks = 'lite/Frameworks/JitsiMeetSDK.xcframework'
-  s.dependency 'JitsiWebRTC', '100.0.0'
+  s.dependency 'JitsiWebRTC', '~> 106.0'
 end
