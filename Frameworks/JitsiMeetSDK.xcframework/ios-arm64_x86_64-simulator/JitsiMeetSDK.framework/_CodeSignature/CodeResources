@@ -6,7 +6,7 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		blOlo3P4PcGNssQ+uBjfnlLHgcQ=
+		nm8Sc8wtDAnCVLBghBrMS7UMKro=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -405,7 +405,7 @@
 		</data>
 		<key>Headers/JitsiMeet.h</key>
 		<data>
-		OKVZX3wi0UMjvFuwN3sGY0WeS2s=
+		ms5Z0Y0uanOQFpbT+K3J9e4N3mw=
 		</data>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
 		<data>
@@ -457,7 +457,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		O3zHcz2x1gJgqCUc7IKw0BImbd0=
+		aZHjXiXRtA7RNGc7htuBwVlnhk0=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -477,7 +477,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		n1v9d6w9yRrGPcBZ0Mi7bXOyEro=
+		nPe3Nk7Jbc78nkNvsRKLBBOJDyQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -597,7 +597,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		0vSssVU+VbJaP237awN0OTbCwbE=
+		MVSsTLC2sJn9UmDe5KjX0sdY5Fk=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -674,7 +674,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M7cYmZNKiDxpnf3gLsGfx3vpf+sop/ukp2vAJ8V/8L4=
+			SZXnagCw20GKFiW+Lyi5dVm0xUlDCv65lGlMRmNx7+w=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -1109,7 +1109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			thL3XyuDZAi+JpbCtvZxiX3OZ0lyOQRbthOLaxN1NHA=
+			U4/E6nypnM3zIjnjEAmBepRiXamBLa4XVZiF9TRyuSQ=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
@@ -1193,7 +1193,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bzdz+z6j2laMXKz4FDsKDq3O5hYvZTq5ncH9nvNamMg=
+			N23WwXgEjG5veb+aAwc2ImZJdwJgzO2rrsILPp3V69w=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -1228,7 +1228,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			djhmF2q2MU5wrwoqNJYj6nrM0qTU6uP/V1l+AtQmF7A=
+			5l6JQ68fo9GHl5BQb/feKwNPVFFJ22t+GxwEs655LJw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1438,7 +1438,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ib+VTDqhAnCuIAEaLyE/r9Gn3xIIf8qbH+GGTrmPxH0=
+			EYp/MieNN6S7MKKHnssrznkK7yXEktWyVEaPIjlaoBU=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
