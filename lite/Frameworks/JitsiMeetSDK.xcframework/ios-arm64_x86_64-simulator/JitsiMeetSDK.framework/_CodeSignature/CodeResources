@@ -6,7 +6,7 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		blOlo3P4PcGNssQ+uBjfnlLHgcQ=
+		nm8Sc8wtDAnCVLBghBrMS7UMKro=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -43,7 +43,7 @@
 		</data>
 		<key>Headers/JitsiMeet.h</key>
 		<data>
-		OKVZX3wi0UMjvFuwN3sGY0WeS2s=
+		ms5Z0Y0uanOQFpbT+K3J9e4N3mw=
 		</data>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
 		<data>
@@ -95,7 +95,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JiCP7Kc8T2QAaqcYokktx+V3a2g=
+		khWn7XYtoXFWIU+VaBAIRrYKSCo=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -115,7 +115,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6uWAn6qOzkT3fOXwPtAn5N7L6f8=
+		tNWLhJ7PKdxS5M5fuC0Yw3u8sG4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -235,7 +235,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		0vSssVU+VbJaP237awN0OTbCwbE=
+		MVSsTLC2sJn9UmDe5KjX0sdY5Fk=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -312,7 +312,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M7cYmZNKiDxpnf3gLsGfx3vpf+sop/ukp2vAJ8V/8L4=
+			SZXnagCw20GKFiW+Lyi5dVm0xUlDCv65lGlMRmNx7+w=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -370,7 +370,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			thL3XyuDZAi+JpbCtvZxiX3OZ0lyOQRbthOLaxN1NHA=
+			U4/E6nypnM3zIjnjEAmBepRiXamBLa4XVZiF9TRyuSQ=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
@@ -454,7 +454,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ve5MFw3Z0L/jRPyzJU2ir9s54eZCJH+lQoZQKbZfSc=
+			csS3Jwp8A2CRKln9eJzn7zU1kVdDHz8iz+QQo+i9RKk=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -489,7 +489,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mHOP8S9uh54iodo9P2bLHCkYzYCk8hTrOjg41tskIAU=
+			rmswyvV067ebXLeAMgeOxxd+KrWnYWdRlQ4qtZiaJQg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -699,7 +699,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ib+VTDqhAnCuIAEaLyE/r9Gn3xIIf8qbH+GGTrmPxH0=
+			EYp/MieNN6S7MKKHnssrznkK7yXEktWyVEaPIjlaoBU=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
