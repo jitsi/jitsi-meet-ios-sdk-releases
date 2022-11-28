@@ -27,7 +27,7 @@ public class PiPViewCoordinator {
     get
     set
   }
-  final public let initialPositionInSuperView: JitsiMeetSDK.PiPViewCoordinator.Position
+  public var initialPositionInSuperView: JitsiMeetSDK.PiPViewCoordinator.Position
   @available(*, deprecated, message: "The PiP window size is now fixed to 150px.")
   public var c: CoreFoundation.CGFloat
   weak public var delegate: JitsiMeetSDK.PiPViewCoordinatorDelegate?
