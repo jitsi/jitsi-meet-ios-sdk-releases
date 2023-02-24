@@ -1,7 +1,7 @@
 # Jitsi Meet iOS SDK releases
 
 This repository contains the binaries for the **[Jitsi Meet]() iOS SDK**. Each
-release is tagged in this repository and is composed of followig framework:
+release is tagged in this repository and is composed of following framework:
 
 - JitsiMeetSDK.xcframework
 
