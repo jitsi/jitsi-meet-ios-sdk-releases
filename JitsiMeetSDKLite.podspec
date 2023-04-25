@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'JitsiMeetSDKLite'
-  s.version          = '7.0.1-lite'
+  s.version          = '8.0.0-lite'
   s.summary          = 'Jitsi Meet iOS SDK Lite'
   s.description      = 'Jitsi Meet is a WebRTC compatible, free and Open Source video conferencing system that provides browsers and mobile applications with Real Time Communications capabilities. This is the lite SDK.'
   s.homepage         = 'https://github.com/jitsi/jitsi-meet-ios-sdk-releases'
@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.platform         = :ios, '12.0'
   s.swift_version    = '5'
   s.vendored_frameworks = 'lite/Frameworks/JitsiMeetSDK.xcframework'
-  s.dependency 'JitsiWebRTC', '~> 106.0'
+  s.dependency 'JitsiWebRTC', '~> 111.0'
 end
