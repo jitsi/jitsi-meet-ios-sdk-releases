@@ -14,9 +14,13 @@ let package = Package(
             targets: ["JitsiMeetSDK"]),
     ],
     dependencies: [
-        // .package(url: /* package url */, from: "1.0.0"),
+        .package(url: "https://github.com/jitsi/webrtc", branch: "master"),
+        .package(url: "https://github.com/Giphy/giphy-ios-sdk", from: "2.2.0"),
     ],
     targets: [
-        .binaryTarget(name: "JitsiMeetSDK", path: "Frameworks/JitsiMeetSDK.xcframework"),
+        .binaryTarget(
+            name: "JitsiMeetSDK",
+            path: "Frameworks/JitsiMeetSDK.xcframework"
+        ),
     ]
 )
