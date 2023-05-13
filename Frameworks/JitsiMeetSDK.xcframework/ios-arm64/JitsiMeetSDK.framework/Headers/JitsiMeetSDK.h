@@ -22,5 +22,3 @@
 #import <JitsiMeetSDK/JitsiMeetBaseLogHandler.h>
 #import <JitsiMeetSDK/JitsiAudioSession.h>
 #import <JitsiMeetSDK/InfoPlistUtil.h>
-#import <JitsiMeetSDK/JMCallKitListener.h>
-#import <JitsiMeetSDK/JMCallKitProxy.h>
