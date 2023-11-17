@@ -6,7 +6,7 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		Yg85gykYiKNXFUtwWYvTvl3BwT0=
+		9aWkNK8hT0D3lGBbmYeEim6Ir3s=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -437,7 +437,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		x/GWjkpNtnGZtLzG0JoFFgwD9W8=
+		0BdSbQFynmnJYA3e46EOEU/MiSE=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -633,7 +633,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		A/lzc4DVz3yP5Pr7HsNrWqzxs3s=
+		v8qQbnI9wJsTCtaXa6zQXLD6wKQ=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -786,7 +786,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KkfbHX2Dw9pHudsMRBd0yys8VP2mE9l3G9BVZTm54ws=
+			/2o5UqwhPZW+cC+TssH9okPICcpHfggKtzWNF/E6uy4=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -1613,7 +1613,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c8IPa60HjZpclrivzcAKuEZQec2FcrE6PMexqGtjMow=
+			+AwJGW2syfQB21tyxRbTVp2FU3yRcIfdmXwDpm4YYag=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
