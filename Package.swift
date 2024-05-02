@@ -11,7 +11,7 @@ let package = Package(
             targets: ["JitsiMeetSDKWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/jitsi/webrtc", branch: "master"),
+        .package(url: "https://github.com/valentinwallet/webrtc", branch: "master"),
         .package(url: "https://github.com/Giphy/giphy-ios-sdk", from: "2.2.9")
     ],
     targets: [
