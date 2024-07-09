@@ -4,21 +4,22 @@
 import PackageDescription
 
 let package = Package(
-    name: "Jitsi",
+    name: "JitsiMeetSDK",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v14)
     ],
     products: [
         .library(
-            name: "Jitsi",
-            targets: ["Jitsi"]),
+            name: "JitsiMeetSDK",
+            targets: ["JitsiMeetSDK"]),
     ],
-    dependencies: [
-        // .package(url: /* package url */, from: "1.0.0"),
-    ],
+//    dependencies: [
+//        .package(url: "https://github.com/jitsi/webrtc", branch: "master"),
+//        .package(url: "https://github.com/Giphy/giphy-ios-sdk", from: "2.2.0"),
+//    ],
     targets: [
         .binaryTarget(
-            name: "Jitsi",
+            name: "JitsiMeetSDK",
             path: "Frameworks/JitsiMeetSDK.xcframework"
         )
     ]
