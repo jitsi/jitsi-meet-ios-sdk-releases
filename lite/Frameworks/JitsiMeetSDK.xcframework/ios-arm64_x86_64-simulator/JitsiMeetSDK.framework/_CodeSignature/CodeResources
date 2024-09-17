@@ -14,7 +14,7 @@
 		</data>
 		<key>FBLPromises_Privacy.bundle/Info.plist</key>
 		<data>
-		lm/4POGJZzbr+92I9JfkcsfTijc=
+		8DD8IO9AnKB0fOEjILfw+stazLI=
 		</data>
 		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		v9+cZ90fEqGwknwivP1JLw9WXvU=
+		DMtTz8lHWBansrJTk6NAfrAMK0o=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -78,19 +78,19 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		UHDjIJxESRhrhMEWJq4l04lC/7g=
+		I5E2iKblqKnGX1Mf+OtCPzk6jbk=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		mTuc8qXcLlPaU3WJM8tSczPUH8A=
+		hAvYa8sKHzLu9PobqSF2RbNW9L8=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		UHDjIJxESRhrhMEWJq4l04lC/7g=
+		I5E2iKblqKnGX1Mf+OtCPzk6jbk=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RdJwB4AQ5r6iImUl9k84s8jJe9w=
+		GvgvnC0/UQSpuJMjoNwOCUxJ4W0=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -98,19 +98,19 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YA7mb2oxl9LrHMMmQQNG/Gb+HXM=
+		pYzhQcRN9IQEVw8s/uCm/ut+yNM=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cr0tP0fhYtfns99PWjJ2wqugQhw=
+		9OUQEcc2iE0iPHB1aIKcSBvCvwk=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YA7mb2oxl9LrHMMmQQNG/Gb+HXM=
+		pYzhQcRN9IQEVw8s/uCm/ut+yNM=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EYr7SnTolEq5mFQZvGAUPosIcWo=
+		WJbAbYCUrKWbhT2CbbHTDld6owU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Promises_Privacy.bundle/Info.plist</key>
 		<data>
-		HlWZ7f1WIZD8B8VD6KfdPOgZL6I=
+		lyisWYg7MCuybMJD4wQ1QWrUmkg=
 		</data>
 		<key>Promises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>RCTI18nStrings.bundle/Info.plist</key>
 		<data>
-		IgCyVweAuYObcY4vNGgxOSimWSE=
+		dMKyt/+b8VgMh8oyhzPgL2OWF78=
 		</data>
 		<key>RCTI18nStrings.bundle/ar.lproj/Localizable.strings</key>
 		<dict>
@@ -791,7 +791,7 @@
 		</data>
 		<key>RNCAsyncStorage_resources.bundle/Info.plist</key>
 		<data>
-		i0PfiiKwBv4AfjYKU42eArrm8U4=
+		qm+EAparq8muEZMprNc1mELMCoM=
 		</data>
 		<key>RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -1007,7 +1007,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		gVEwCVQkutXf6b1W8YvFCauTM4M=
+		L/p6XFr1LJnk49KysXFKbSL2WtM=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -1206,7 +1206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k/Ub3FeZZE7H4THPYQXk20TngLJbxkTHxcrdc6ASJ+0=
+			le0tsEL5rMW/vLv+WJm4a0tYI7r8SUYZ40oqcavIQnE=
 			</data>
 		</dict>
 		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -1311,28 +1311,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fEwprtPg0qjJPv2TtoOU8YuUjwYDRPrzDJw7Sc8EPmA=
+			msorSnGOOdY5NFecCcKoP2VQsMK9g6KhUa8DMJSuspM=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WQyqf2ZImH0NGpnmc+HrCH2xUB7j+aNoL8JGtS6biUA=
+			lluGaohINZFeyb32wCB/e31kFsFnGhI6EZR3Z37c31w=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fEwprtPg0qjJPv2TtoOU8YuUjwYDRPrzDJw7Sc8EPmA=
+			msorSnGOOdY5NFecCcKoP2VQsMK9g6KhUa8DMJSuspM=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I4HfK6zI7qLSvyXXC+aWsVtA6wvlPKLJKLzaDc5bewQ=
+			AJfO4Z3HKNoQ5ZXvA503pHFKQAdpIq0SDHs0w5G1E7Q=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -1346,28 +1346,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z0cFd9ggRGt95M5YmeBQzM1WFLrfI4yZGQl9O+iKiHI=
+			gFSXmvFlg0ReG0zFdx8s3UgKeV9xc0F08LAJWL+Bhl4=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QOH6TrQwp3DN4FRHVhRFXb0w7XEjhdX8hVMzTL/o+hY=
+			Ih/TeNf96MXFCkbbnKy7WvczM0IEaCIgJ6fTccMwR2M=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z0cFd9ggRGt95M5YmeBQzM1WFLrfI4yZGQl9O+iKiHI=
+			gFSXmvFlg0ReG0zFdx8s3UgKeV9xc0F08LAJWL+Bhl4=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KkCVuCAO4s/MiwaAaBpeIS4MKj0L4AJUiFHWwWL079Q=
+			Ckq0TJJvrVSDBRKAhc/fibHPuOKICnqhwASpzrx+69g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1381,7 +1381,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6u2Wvo77wHuYLhMICm+TLNJuRAQuLqrt5SGIiEvM/rs=
+			Lj6e4e2B+iHT4RtZcn2o7n0+bilQbf3Cv5RuxjIr0JA=
 			</data>
 		</dict>
 		<key>Promises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -1395,7 +1395,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2s/Ubgy/fO++IxX7tUBbXlFelhn3I7un/TzYPvhajow=
+			QYObG4511OjzZY1WkQJzz8Jf6rZdhYzaeHGOZShu6aw=
 			</data>
 		</dict>
 		<key>RCTI18nStrings.bundle/ar.lproj/Localizable.strings</key>
@@ -2066,7 +2066,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6QswBPoLL4yLtnUJqUEaH98IhmkKx49LMHuDhWyX4dg=
+			+Mdry2ydq9mSCkvy2yJ3/BszbULPxiiTsYGs75aZRG8=
 			</data>
 		</dict>
 		<key>RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
@@ -2444,7 +2444,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1OW6O6KS17ZOEQGlbNVHg39z57ZAAjV+uUkA4skznGw=
+			drDVMSAAA+gar1dwy0dqR3omC+AYuvuYLFX+lAJHUpc=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
