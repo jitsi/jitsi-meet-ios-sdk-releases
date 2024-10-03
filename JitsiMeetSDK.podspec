@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
   s.platform         = :ios, '15.1'
   s.swift_version    = '5'
   s.vendored_frameworks = 'Frameworks/JitsiMeetSDK.xcframework'
-  s.dependency 'Giphy', '2.2.4'
+  s.dependency 'Giphy', '2.2.12'
   s.dependency 'JitsiWebRTC', '~> 124.0'
 end
