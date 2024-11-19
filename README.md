@@ -51,3 +51,7 @@ Please report all issues related to this SDK to the [Jitsi Meet]() repository.
 
 [CocoaPods]: https://cocoapods.org
 [Jitsi Meet]: https://github.com/jitsi/jitsi-meet
+
+## Release notes
+Latest release notes:
+https://github.com/jitsi/jitsi-meet-release-notes/blob/master/CHANGELOG-MOBILE-SDKS.md#ios
