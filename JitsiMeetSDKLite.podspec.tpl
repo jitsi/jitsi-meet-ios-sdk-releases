@@ -9,7 +9,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/jitsi/jitsi-meet-ios-sdk-releases.git', :tag => s.version }
   s.platform         = :ios, '15.1'
   s.swift_version    = '5'
-  s.vendored_frameworks = 'lite/Frameworks/JitsiMeetSDK.xcframework'
-  s.vendored_frameworks = 'lite/Frameworks/hermes.xcframework'
+  s.vendored_frameworks = ['lite/Frameworks/JitsiMeetSDK.xcframework', 'lite/Frameworks/hermes.xcframework']
   s.dependency 'JitsiWebRTC', '~> 124.0'
 end
