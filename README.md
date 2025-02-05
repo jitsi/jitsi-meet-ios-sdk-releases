@@ -12,7 +12,7 @@ do so, add the `JitsiMeetSDK` dependency to your existing `Podfile` or create
 a new one following this example:
 
 ```
-platform :ios, '12.0'
+platform :ios, '15.1'
 
 workspace 'JitsiMeetSDKTest.xcworkspace'
 
@@ -51,3 +51,7 @@ Please report all issues related to this SDK to the [Jitsi Meet]() repository.
 
 [CocoaPods]: https://cocoapods.org
 [Jitsi Meet]: https://github.com/jitsi/jitsi-meet
+
+## Release notes
+Latest release notes:
+https://github.com/jitsi/jitsi-meet-release-notes/blob/master/CHANGELOG-MOBILE-SDKS.md#ios
