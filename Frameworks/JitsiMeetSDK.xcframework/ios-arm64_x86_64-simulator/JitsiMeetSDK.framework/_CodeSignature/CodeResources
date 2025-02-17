@@ -428,7 +428,7 @@
 		</data>
 		<key>Headers/JitsiMeet.h</key>
 		<data>
-		pyCc533UjktYDvU4R0JnZnPc4l8=
+		+dKYJtYLELZNufvvYpww+V7loqc=
 		</data>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
 		<data>
@@ -452,15 +452,15 @@
 		</data>
 		<key>Headers/JitsiMeetView.h</key>
 		<data>
-		RzcTeMASvOQISQxApGjfCSGF2Cc=
+		zK54Okz4rzADDEQO6dQY76GNVTA=
 		</data>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
 		<data>
-		+L0dv6fMKZjwTsA1xUp11kiwbbQ=
+		u5ql9r9iG2pJF+9BahSFAyvObBo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LF9eGfLWnXU0CfAvtHMwiPlxoAI=
+		pDwNqjomajdLsyFbWoUiHl1RWK4=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -480,7 +480,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hb8FcMNgIg5GIBmb1EVu6D+qP/E=
+		tkY+nc3fNBpKGsY9/yT7DdnC/48=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -500,7 +500,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5YhM4z7QOyzcpVTwglTFhBMRvo0=
+		+lZXyBqDFlNYg/D4SePz7Z1cLJQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -532,7 +532,7 @@
 		</data>
 		<key>React-Core_privacy.bundle/Info.plist</key>
 		<data>
-		OQTiEVS4ubRgmTJEiGcQnAJJaw8=
+		jlkVND+04deARK+R9RSaqUHcU5g=
 		</data>
 		<key>React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -540,7 +540,7 @@
 		</data>
 		<key>React-cxxreact_privacy.bundle/Info.plist</key>
 		<data>
-		lstiEjXkBtygPpsGyhNqKJYXyoU=
+		St8mPvA68kN1JyyViHUqJTHrek0=
 		</data>
 		<key>React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -764,7 +764,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		8APNWB+zROSS85WfcuAK7X9ZXug=
+		amMS8O2urFKi6dOedFuhKnb0MWk=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -1439,7 +1439,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OTuFBjDV5w0bbu1rU31L2yQRewty+M/fTZRuppnPJMo=
+			eRv3BOUwaOlUF6IWP8ZFXVg4+/P44D1DqSJWgG2bX10=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
@@ -1481,14 +1481,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KITNCwTkCZlM65E6SaVErIz0rnaUJLeJYeW6q91y8Uw=
+			xAP6qojEUIB7S1JAg1dUpMpZDWUHa8Z1WPEjjjYGsJg=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tNS3zpHa6ZXxAmUZ2LdHesA8hdOTNomJr1x7NRK7Ebc=
+			/8jPHsOOVqpAXpU9sUqy6mb+07UuqayewfejzKdA6MM=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -1523,7 +1523,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qjule99hFClGzmIBGAI30J/N/rFznhmfwKuY2Pth5Co=
+			PSmlefEDXXDNwuBJpT0ZYAOx7rnCEWW2p16jDTfXNwo=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -1558,7 +1558,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yIH3a7xfDTRGHYwQ47mLA0aOhJ5NbVJOnPARscem6KU=
+			fnXUnzFr4i78OCEn4rbBG5Ah2pTktshrD7jEIo0ru2g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1614,7 +1614,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qZyFAsxqF6zolHuVZm2VXtCQ1L8Th+AK2MhvberVcWI=
+			s8Fxe1MV4yhPWeCsNxDjaxF8/UiQYAyUMC5Ytk4dasw=
 			</data>
 		</dict>
 		<key>React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -1628,7 +1628,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4X/Pf+fYixn1PZvXGajxdMK2wNKs9xZmueBPsO97Ajo=
+			ml2ek5KD3My92geO/TGYsS8W1AcA6ETipW9MWC7iLzQ=
 			</data>
 		</dict>
 		<key>React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -2020,7 +2020,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A5UEDBetfDL7157IbA7Fjw9e5kMWhiKBC3jHKfklKfU=
+			AKC5Lsa8M7OitjENTHT4f5zFkyamLiHbQdjUCj06a5k=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
