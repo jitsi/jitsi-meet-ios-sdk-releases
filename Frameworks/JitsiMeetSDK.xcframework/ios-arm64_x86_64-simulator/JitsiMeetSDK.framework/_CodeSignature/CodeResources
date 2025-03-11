@@ -452,15 +452,15 @@
 		</data>
 		<key>Headers/JitsiMeetView.h</key>
 		<data>
-		Ju3AWnJHYtTOIEsyEHL+qAHP8zA=
+		r8i5ygrhkbZuaCU5/MgT/xTvG58=
 		</data>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
 		<data>
-		Z0yCg3xmQlDh/aQt+wcelwHvOeo=
+		TReUmJ5VfWkOupZjiID/j8baL1g=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NXDU47GvNSPp0T8ZEHakyIN+T9g=
+		GND5zm7jzdQlevguAR1b1weYLig=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -764,7 +764,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		/FL2Em/ZZA32eLVvZY9UlWHkQSQ=
+		4zOEmH1pypVd0hpHg+MCp3KCRNM=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -1481,14 +1481,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ea+qasOdfWcKZ/P3ayxRIZmL9+H3MPe4PXn6pclbvyY=
+			ZZYRPLMFqew7zOhmna7Cjd9slT39MN4pOn+FYDjgXEE=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wIdep1BgKEUIyCM0SzdqcGYkE9xfV4/TJsszSbO6POA=
+			lWkDy+9aq4RpkJ9cCAo9DqFP0x+FL0J1dQ1vaC8X/9w=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -2020,7 +2020,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fjOZsLAhdEpfo7EcyVax+s50VFcSooJVqSEnpBqY4cM=
+			bEcsaI733g2XoehiETRDU7I3r0F2C5Z1Pz/nZyiQ51E=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
