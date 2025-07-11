@@ -8,18 +8,6 @@
 		<data>
 		qU7OsCaFMpm2j24h/zSvv3VMZGY=
 		</data>
-		<key>ComodoRsaDomainValidationCA.der</key>
-		<data>
-		M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
-		</data>
-		<key>FBLPromises_Privacy.bundle/Info.plist</key>
-		<data>
-		OJS/ZDU1vzAZszIc/sDJLNDF67Y=
-		</data>
-		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-		</data>
 		<key>Headers/InfoPlistUtil.h</key>
 		<data>
 		r3u7/ewHSZDotFQPN5HcB2BUgnM=
@@ -38,7 +26,7 @@
 		</data>
 		<key>Headers/JitsiMeet.h</key>
 		<data>
-		KAQj1J5U1olriqJ7VUOgUDwVtg4=
+		gSTYgM6d7txTM53HA8yxkJgK94A=
 		</data>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
 		<data>
@@ -74,7 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NkM3BW7+bMRtMG43Dhi7gEfZtaM=
+		EsT6AXn8EUFEyYjqjbfyIpXldUM=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -94,7 +82,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		g/SzIQL13icV2zgMgUFGDhIFPl4=
+		2PQBHXcw7Rcywg81c3W5686+9tI=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -114,23 +102,15 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		P9pjOeozxYvHghH+QTW0DJnRvbM=
+		66T5ibMpI3V4C8eChboB4/aZC0A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		weCgT6+zuQYvdnqNYOrkG1W5Gt0=
 		</data>
-		<key>Promises_Privacy.bundle/Info.plist</key>
-		<data>
-		5Pjj9sGXWOogqLR+2l1BO9yvCjo=
-		</data>
-		<key>Promises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-		</data>
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
 		<data>
-		ClaHnm0ubPW3/8e7pBKKXcPGu+0=
+		e3SJV1wqY2JOgJ9yKjm7UYlN1uY=
 		</data>
 		<key>README.md</key>
 		<data>
@@ -144,9 +124,21 @@
 		<data>
 		sPDfyCwXVFwSP8cGRWRskpblWgM=
 		</data>
+		<key>RNSVGFilters.bundle/Info.plist</key>
+		<data>
+		ADWTv2UOZKLYa5VEAySB00n32FQ=
+		</data>
+		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<data>
+		+VLexPzHghS5+wGZ2o3Pb4hzkK4=
+		</data>
+		<key>RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<data>
+		uBh9rD7P0EEOLBtlduH9X3cREsM=
+		</data>
 		<key>React-Core_privacy.bundle/Info.plist</key>
 		<data>
-		8Q4dmh91SJp9In7EndoFRdGoDK4=
+		uWkmZJkxtJTDRGBHuv0w/wbASek=
 		</data>
 		<key>React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -154,7 +146,7 @@
 		</data>
 		<key>React-cxxreact_privacy.bundle/Info.plist</key>
 		<data>
-		vgUc+VUxfgelshyxvoJ5myFym5g=
+		sU2b9zusoDwrwAGzZUOSe+IUAF8=
 		</data>
 		<key>React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -378,7 +370,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		ltPUB9jGQrzVASM2S0b3toN2rmY=
+		+BHtw0RmGxdO76asQ4hioQ1EwJE=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -574,27 +566,6 @@
 			vlGGlNTQbYekZxUcdQvF8AYVe85O+PiMDQRnuHRlTjw=
 			</data>
 		</dict>
-		<key>ComodoRsaDomainValidationCA.der</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AqtX5OZ6DLSN0v80gw6KxA9EdvsIymvj9c2Eb2RoQPA=
-			</data>
-		</dict>
-		<key>FBLPromises_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nwS4+Zv6sdkWlTXrnsTBoqIs5JzGFOiaF3zt+XVDuxU=
-			</data>
-		</dict>
-		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
-			</data>
-		</dict>
 		<key>Headers/InfoPlistUtil.h</key>
 		<dict>
 			<key>hash2</key>
@@ -627,7 +598,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f3ipytNbBcd78KgmaoRNLYZzKRbzckIumTmslooDsWU=
+			OvYwVywd4wYmfO1Tf2pPOtZ+qyL+x8DiLHb9jOP08SU=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
@@ -718,7 +689,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xZWuMurc3jLN0En1QjlB0/Ms/wiTRV0B+/6K5/hpV18=
+			612GNVfkqNWWjowmohXBr3ibrbGTCtIXrTNYv6VUP30=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -753,7 +724,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0ewT9PPkoGwVhuxnShbBNDW9jL0WcBSbOsDsOZ9sU8M=
+			rHPi4+dvjhoogxtdPmeTB8ksNX/V+/n+K/bQoV1JJ0Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -763,25 +734,11 @@
 			2y38ncwaeNspj1sO7JG0Lqnux7t51/2RZi+4apSrE+w=
 			</data>
 		</dict>
-		<key>Promises_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Arwfz0stqNH8srvBRA8zFRC1pfrKAkZ0Z4H6x4HWMaI=
-			</data>
-		</dict>
-		<key>Promises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
-			</data>
-		</dict>
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kDwMancTQBCsGm1guAh49c8Gn4ggungJFrUTTHoWZ98=
+			R1PQ7r8rHf9rC08nsptYFG70gJcWRvnwjYl+id8+p1w=
 			</data>
 		</dict>
 		<key>README.md</key>
@@ -805,11 +762,32 @@
 			CxKH0OaGz4Z9ONl8yl3GlLMCnyfE/kJw3UvS/VRYovA=
 			</data>
 		</dict>
+		<key>RNSVGFilters.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			190j3/CGVLb4dt6gv0/KpZbR+aQr2CaVNdqYI/7ubNs=
+			</data>
+		</dict>
+		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aRRl/fIr4pQqkGSCmYRAyw0/aGOTcpNrit0zlcC0Dtk=
+			</data>
+		</dict>
+		<key>RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IjeoZNeITsXaqYQpPXdb5hrqaJk+s2Qqy5e5V5lT//I=
+			</data>
+		</dict>
 		<key>React-Core_privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hAPYOp90MeahnTg9IOXrDRnbb4yqGgz9rTsUEgds5i0=
+			XEPiqLRnqAqgLotI439B7/IdOMYlptekgP26/r/FsOs=
 			</data>
 		</dict>
 		<key>React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -823,7 +801,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TAXVDh+yHj0FBOcS/QaLTWDQ+0bfQ53WdXTKgFjjOSA=
+			/XuBMFv/4Mq/gsaxi+ykZr56T/sJOixzZBEcAKEfOio=
 			</data>
 		</dict>
 		<key>React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -1215,7 +1193,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K7hBs/GCYzsW3vk6EftJIhbqg5fj3Aao3c+FBkrsAmY=
+			iwOVpe+QFoUEjZ2sdiji4RjUaP+bOoBDVuGG/riuuFs=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
