@@ -452,7 +452,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6iAZvZqk8ONyHlpcXA2QXAX3FRI=
+		T9XTw2OXgFmnvEN+aAD0OGLg+40=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -513,6 +513,14 @@
 		<key>RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
 		sPDfyCwXVFwSP8cGRWRskpblWgM=
+		</data>
+		<key>RNDeviceInfoPrivacyInfo.bundle/Info.plist</key>
+		<data>
+		Zn1OyCWKMz7uMSrOXGEwrnCRXoI=
+		</data>
+		<key>RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		m8aNKGgCLWHtBQWong4x8zsNang=
 		</data>
 		<key>RNSVGFilters.bundle/Info.plist</key>
 		<data>
@@ -760,7 +768,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		PFN/+GO9ah57AzJvwjTQ1ZAx+9M=
+		nQ/RcWJbgPA/U2Lfxv2HBJ5lSPA=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -1578,6 +1586,20 @@
 			CxKH0OaGz4Z9ONl8yl3GlLMCnyfE/kJw3UvS/VRYovA=
 			</data>
 		</dict>
+		<key>RNDeviceInfoPrivacyInfo.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UXTzBg6x6lelyaaZqZWMrt+7Ms9NzoWEido6FNTEqus=
+			</data>
+		</dict>
+		<key>RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4Ye67kwWytlqe/PE3iAZKFQmf1/L4XhtOgUgWAH3aeY=
+			</data>
+		</dict>
 		<key>RNSVGFilters.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -2009,7 +2031,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZWLtj9ya8S680Xq7QiV4VDoUQrbcM0jZo64oHBIwKds=
+			LuIBzCwNS6ZcIaHZTGPS48uVW+l3jsfTtyhBruC27FQ=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
