@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "JitsiMeetSDK",
-    platforms: [.iOS(.v15)],
+    platforms: [.iOS(.v26)],
     products: [
         .library(
             name: "JitsiMeetSDK",
