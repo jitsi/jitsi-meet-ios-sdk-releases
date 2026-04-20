@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/JitsiMeetSDK-Swift.h</key>
 		<data>
-		y+RuI0OAp71WAAUca6qAmnMQKQ4=
+		dJOb/7opBcPLeMNCYOwkz+mfPTI=
 		</data>
 		<key>Headers/JitsiMeetSDK.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lh3I8/N28mCUc/iSWjC+74nMUIA=
+		tvrCOcNXykwf2+DviTng7VAtyy0=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -70,19 +70,19 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		mGFoBSrqZlkyavT3w7O3qLgeo2w=
+		1936CKKq1WOTVnmt/7rai+a0wPM=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		FtBbJNrdaQjD0yYMPUxAmYmwAJo=
+		1Rf7PWKf12PzmFTY+XIHggmbiRo=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		mGFoBSrqZlkyavT3w7O3qLgeo2w=
+		1936CKKq1WOTVnmt/7rai+a0wPM=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FmH9LtOh/5M9QUgk6/kuMZ5YwCo=
+		wI79jxuUzCzEgTlnCE1QCbXNHUY=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -90,19 +90,19 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		g+0PXgnajSjBGsxYOWTc+cJOAZQ=
+		K+RJAuOfFJUJRAX2cFVui/KWEyo=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		mfNUOyoHCrIXYRQQl9o8C6VZOk4=
+		QWPNH8JRXp8sehg4LyO/AB7DWuI=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		g+0PXgnajSjBGsxYOWTc+cJOAZQ=
+		K+RJAuOfFJUJRAX2cFVui/KWEyo=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6/lU7jbH22cmn3J8z9z9TQ4qROA=
+		5qsGDGrQwIZT5kaDgJHCz6NzEzw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
 		<data>
-		e3SJV1wqY2JOgJ9yKjm7UYlN1uY=
+		3V4jUmPJRwad0ZV5PwUW7kqwtUA=
 		</data>
 		<key>README.md</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>RNCAsyncStorage_resources.bundle/Info.plist</key>
 		<data>
-		mnWU/kS3H6FF/sz9CaxkYh51z4E=
+		eoJSBgvITdhwTZKgTg9jSyQHkqA=
 		</data>
 		<key>RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>RNDeviceInfoPrivacyInfo.bundle/Info.plist</key>
 		<data>
-		Zn1OyCWKMz7uMSrOXGEwrnCRXoI=
+		+WVYmS4x2rMuWaKzycwoDSAIkfY=
 		</data>
 		<key>RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>RNSVGFilters.bundle/Info.plist</key>
 		<data>
-		ADWTv2UOZKLYa5VEAySB00n32FQ=
+		GDuKONrDDqVWHJCy54fYuTeeIBA=
 		</data>
 		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>React-Core_privacy.bundle/Info.plist</key>
 		<data>
-		uWkmZJkxtJTDRGBHuv0w/wbASek=
+		9IYVuo8UJ2snQT+DBuJQ1S0MKn4=
 		</data>
 		<key>React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>React-cxxreact_privacy.bundle/Info.plist</key>
 		<data>
-		sU2b9zusoDwrwAGzZUOSe+IUAF8=
+		j5FbiSHN3780LVU9J0hf4mQdDoc=
 		</data>
 		<key>React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>boost_privacy.bundle/Info.plist</key>
 		<data>
-		vAVt3x9qv8vRQeW+6f4izFR/0jk=
+		YMuWhMxuaVdxwkEzLSL901eHTG0=
 		</data>
 		<key>e2eeOff.mp3</key>
 		<data>
@@ -274,7 +274,7 @@
 		</data>
 		<key>glog_privacy.bundle/Info.plist</key>
 		<data>
-		EH+EkTNHMkexBo5831rEbjhUJLo=
+		Eh1xonOjpyjAlrsZbBDf2mH8uX4=
 		</data>
 		<key>image-resize@2x.png</key>
 		<data>
@@ -378,7 +378,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		CyMb7T9PrcIi0HsSfRsk4EOKcEU=
+		k2pJxBxO8eJqtqVSpel3CmgtJb4=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -484,53 +484,101 @@
 		<data>
 		Xa1t4vON6nX5syo1lZR2cVFHZ3M=
 		</data>
+		<key>recordingAndTranscriptionOff.mp3</key>
+		<data>
+		NOisJxSLAslhCMOB8ENHKRZ0s3Q=
+		</data>
+		<key>recordingAndTranscriptionOff.opus</key>
+		<data>
+		u1MWKLt+cm71Pu4pDJuOu/6TnMA=
+		</data>
+		<key>recordingAndTranscriptionOff_fr.mp3</key>
+		<data>
+		oloyNkK162PfL4Ckban9lTnRF+8=
+		</data>
+		<key>recordingAndTranscriptionOff_fr.opus</key>
+		<data>
+		fjACrE886T/MtVULfcUtINOd6F0=
+		</data>
+		<key>recordingAndTranscriptionOff_frCA.mp3</key>
+		<data>
+		NgQt6lPoUS+JfpBBu5bHiqDO8lg=
+		</data>
+		<key>recordingAndTranscriptionOff_frCA.opus</key>
+		<data>
+		dOeIX/0FLcI4hvV2THepz95j178=
+		</data>
+		<key>recordingAndTranscriptionOn.mp3</key>
+		<data>
+		vCWfzpka3CLw5fhJYW+EYISJpUI=
+		</data>
+		<key>recordingAndTranscriptionOn.opus</key>
+		<data>
+		TTlPvtOonWnFuoBnPLCTS6N30N8=
+		</data>
+		<key>recordingAndTranscriptionOn_fr.mp3</key>
+		<data>
+		CsI4bbgTlt8IpZJiXOn32q2W7HM=
+		</data>
+		<key>recordingAndTranscriptionOn_fr.opus</key>
+		<data>
+		nfPE2HnJ/NdwPzf8HYbnfHaWaok=
+		</data>
+		<key>recordingAndTranscriptionOn_frCA.mp3</key>
+		<data>
+		ttVgxfkYfhv5uchlEeafMNJwYb4=
+		</data>
+		<key>recordingAndTranscriptionOn_frCA.opus</key>
+		<data>
+		VWDFh9Xc6VqPv84HzqUQtFkEgSc=
+		</data>
 		<key>recordingOff.mp3</key>
 		<data>
-		qXPvRHo5SBhRG0hBb/3EDl7+dBM=
+		TaQJhg2Eeb5GlpUU5Ln3Y1Ez12Q=
 		</data>
 		<key>recordingOff.opus</key>
 		<data>
-		8DbnHNMXUlgmxWzZVJ99xlsCxiY=
+		S3hEouw9JnZ5WX0/vGyhOrnbvpQ=
 		</data>
 		<key>recordingOff_fr.mp3</key>
 		<data>
-		hwsnAguuNQxzzKvmNcu2qEaaW9o=
+		pt/T/Vs13i3dT6DmifNu+h5ah20=
 		</data>
 		<key>recordingOff_fr.opus</key>
 		<data>
-		QOpU8oxfrRxHQjQxkDYZcCkDkgs=
+		PZ8iwKVclXcjEkPfd8Nl3DIeqgY=
 		</data>
 		<key>recordingOff_frCA.mp3</key>
 		<data>
-		hwsnAguuNQxzzKvmNcu2qEaaW9o=
+		7jXUU7uT/uGzZdLxSWV0XhoCa1E=
 		</data>
 		<key>recordingOff_frCA.opus</key>
 		<data>
-		QOpU8oxfrRxHQjQxkDYZcCkDkgs=
+		qfINjwQDSwbxLw8D23G00IU6u8U=
 		</data>
 		<key>recordingOn.mp3</key>
 		<data>
-		KPp2jEzKD9nL4R/c6GY3RGafGBk=
+		WTSaBb+LY4dltl9is++dJf5iHpo=
 		</data>
 		<key>recordingOn.opus</key>
 		<data>
-		8bo3fQGV+/gcngckWX+rHVSq5bM=
+		Svn0gX/N8rvOyqn8CaKO7XPRQKA=
 		</data>
 		<key>recordingOn_fr.mp3</key>
 		<data>
-		AzBCiTaya/nvTIfBAK3BNR8MQss=
+		lp0E8eNpN6iXgD3BsaD981+nmyI=
 		</data>
 		<key>recordingOn_fr.opus</key>
 		<data>
-		PSQMwMHA3VK2razBAp3IegyOJoo=
+		WdpkvZzG6tnLuRnt299cfJ8DzNI=
 		</data>
 		<key>recordingOn_frCA.mp3</key>
 		<data>
-		AzBCiTaya/nvTIfBAK3BNR8MQss=
+		CNkLmAirvuk1a7pDN0Np+Bm6jQw=
 		</data>
 		<key>recordingOn_frCA.opus</key>
 		<data>
-		PSQMwMHA3VK2razBAp3IegyOJoo=
+		Y08/C2QeM329MrWx37kvdDttSaA=
 		</data>
 		<key>rejected.mp3</key>
 		<data>
@@ -563,6 +611,54 @@
 		<key>talkWhileMuted.opus</key>
 		<data>
 		f080SaeV5boZEqynWfZfldv/b2g=
+		</data>
+		<key>transcriptionOff.mp3</key>
+		<data>
+		B6AsPlGqH9TVjqpfpw4cDweYcIM=
+		</data>
+		<key>transcriptionOff.opus</key>
+		<data>
+		r8hEZUr7tU6SEODkbWeFwePMfHY=
+		</data>
+		<key>transcriptionOff_fr.mp3</key>
+		<data>
+		UojPIhHC7AW0CiA5ulOKD6gkGuY=
+		</data>
+		<key>transcriptionOff_fr.opus</key>
+		<data>
+		kesZqmGUzlG+moEhvZlltJ5enog=
+		</data>
+		<key>transcriptionOff_frCA.mp3</key>
+		<data>
+		QIQijZ9d54J6BQzZbcsQaJwrf8A=
+		</data>
+		<key>transcriptionOff_frCA.opus</key>
+		<data>
+		ppBCVMdJXb+RNzEM0oIb4WQd4sA=
+		</data>
+		<key>transcriptionOn.mp3</key>
+		<data>
+		JkEc2f8PXOKpyHr6h5784gVvS04=
+		</data>
+		<key>transcriptionOn.opus</key>
+		<data>
+		6s30KTZH60U7kpIkZEycFADLseQ=
+		</data>
+		<key>transcriptionOn_fr.mp3</key>
+		<data>
+		PGDTtNQb6ihoqDy/dX8pQJ46vuc=
+		</data>
+		<key>transcriptionOn_fr.opus</key>
+		<data>
+		+GEi2WVnd2dWi/5qkA0xXOTvywg=
+		</data>
+		<key>transcriptionOn_frCA.mp3</key>
+		<data>
+		0IUqXf3ii8lJp7gl7ANNQ/yMUM0=
+		</data>
+		<key>transcriptionOn_frCA.opus</key>
+		<data>
+		GMwwSU3ITMa4X+0o4/KIdFEWwR0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -634,7 +730,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Q2xVvlXuPRhhJRS1KXIhhk40kHdb97+Psyqe4VSuTk=
+			X6FJag9tLN6r7pFu82T+WhTaEIkIKsqPMLV0ES2RhXA=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetSDK.h</key>
@@ -676,28 +772,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qfLvaNFWLs7QRIaqU9wo/sqGLAotwyzOnkhb2tnn9XI=
+			EX3L/F2GO7U6K4GHucc5dAzQe9tD4FHRfqC5GWqNrn8=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SCebcvvG28vGkbSpp/CG+3EfXHZPB2XT/MhUtsnb55k=
+			ie6BvFAtKf+qC9sGrtyLvPkT7+7dDzq3dwnUjnSeccc=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qfLvaNFWLs7QRIaqU9wo/sqGLAotwyzOnkhb2tnn9XI=
+			EX3L/F2GO7U6K4GHucc5dAzQe9tD4FHRfqC5GWqNrn8=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1+fWYINMyiUNbOMYAZo+L4vmt7MG6C+nd06L8SBxGMU=
+			ZwSh5O4/pnOQjOFWbE8RyUEChuk3Tfn5+f4fI31ZD4Q=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -711,28 +807,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zkam3rM+zoeLP/cf1jXCl6w72N/reSFyn/DXwyRe1a4=
+			yIlr+H99+o7hKPyGkcwKNpaxjTx86+NrvCOLLLX0pO0=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uxwVswC/fnUrvrg8G+agsylLTokckGwYbywsocZUCp8=
+			CuC03f/sAzZF7HaL0w4I/ZUUMEIIZ+ccazyvOQhAsfk=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zkam3rM+zoeLP/cf1jXCl6w72N/reSFyn/DXwyRe1a4=
+			yIlr+H99+o7hKPyGkcwKNpaxjTx86+NrvCOLLLX0pO0=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dmP8cTUFxQJjMKtaOvjQResPuqL9rmqJKjX90f6oies=
+			MDsGEufAywP8Plg++vGgvCV8UvfLb27Qd67akz6tN3g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -746,7 +842,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R1PQ7r8rHf9rC08nsptYFG70gJcWRvnwjYl+id8+p1w=
+			9ITLMi/ZWfTR1f5fblNUUH89ghPBYTnO0GfQLVsAn0Q=
 			</data>
 		</dict>
 		<key>README.md</key>
@@ -760,7 +856,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IgURQ5Fjvoi1FRGnFdNnEesq3WJvVxlg9gzUsGcm5Lg=
+			W8Ae8xEXqFJl9m3N2Qrc2tDkUnTa6yN9OWw3TgBm7ZM=
 			</data>
 		</dict>
 		<key>RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
@@ -774,7 +870,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UXTzBg6x6lelyaaZqZWMrt+7Ms9NzoWEido6FNTEqus=
+			Pr48UuGkJsQC4rL8pemiNkIuvzzBl3Bo5Z1IWJMSq6o=
 			</data>
 		</dict>
 		<key>RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
@@ -788,7 +884,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			190j3/CGVLb4dt6gv0/KpZbR+aQr2CaVNdqYI/7ubNs=
+			rd+gzLmM6sHJswtw6Q7Bp2wGkCPKC8/5S6kSqGAJwyU=
 			</data>
 		</dict>
 		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
@@ -809,7 +905,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XEPiqLRnqAqgLotI439B7/IdOMYlptekgP26/r/FsOs=
+			8R3tP2TsPmGkvoimi9eWmk1adnD//DXgw/QNstRk31Q=
 			</data>
 		</dict>
 		<key>React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -823,7 +919,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/XuBMFv/4Mq/gsaxi+ykZr56T/sJOixzZBEcAKEfOio=
+			IrJxnwOnNAw7TErasqPzcsPRWmq9wUGyheZunv6JVoI=
 			</data>
 		</dict>
 		<key>React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -942,7 +1038,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L3m5QlGIQ8LTlTQVhKbNTxifGZ7IzA5j8Asp/o+dTGM=
+			7pPl70JY7YzyhKZHTGHd0zmbLC8pv0O87Zd6tWR5J+k=
 			</data>
 		</dict>
 		<key>e2eeOff.mp3</key>
@@ -1033,7 +1129,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q5vo6XqbhoeGEM1LdEaYe9tEp5JG6IICsObEIJ6LN48=
+			WZoMGhTkNcxInhdEJVimUgNOkCxAdVCS5fd6IZPtNqI=
 			</data>
 		</dict>
 		<key>image-resize@2x.png</key>
@@ -1215,7 +1311,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I6yqRIyAa4ORZA3/+V4reZKMaWo5bCnPxAfAWPGNiUU=
+			s/gbLOfSSfw8XWJJ0UMoECQ2CGeIue1vecMVoMQ+aLw=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
@@ -1400,88 +1496,172 @@
 			Lh+sJpCGWYImSgkbfVqYCC8tt0JxVQmMQhiaWHrOTH0=
 			</data>
 		</dict>
+		<key>recordingAndTranscriptionOff.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rXTK5RlnbxM6vcBsqF0tLg2l4bCrkdzHGWlyLYfKExk=
+			</data>
+		</dict>
+		<key>recordingAndTranscriptionOff.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ep5SJsKJ+TCKkfRr0U1EqH7lT5oLVJQqi9d35zF4zBc=
+			</data>
+		</dict>
+		<key>recordingAndTranscriptionOff_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yvyMOypHA6hJl6RW4quaMuW0KusYoMSWDtE27cW9P7Q=
+			</data>
+		</dict>
+		<key>recordingAndTranscriptionOff_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HsgNsmvCiPXkJ6WYnFsYYxRkWJKZIMrZSqtulul+gaw=
+			</data>
+		</dict>
+		<key>recordingAndTranscriptionOff_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VN6JsHkfeBItkmuf2lRAkphBv1lBOhkOZ3PCnevPVIQ=
+			</data>
+		</dict>
+		<key>recordingAndTranscriptionOff_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CKAGEGIMVj3QKzzLaMLftx/TFzsOS4ogf5KtgIavmdo=
+			</data>
+		</dict>
+		<key>recordingAndTranscriptionOn.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			De0XXi/6E/Vy+k5Mx8hTpHhY/hSXHpCWdVXFWKIOz9k=
+			</data>
+		</dict>
+		<key>recordingAndTranscriptionOn.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y5qXowN6Hjo1TzLRPZKSbaSM/bz5ogi+L3UGexAZqDc=
+			</data>
+		</dict>
+		<key>recordingAndTranscriptionOn_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rx8wVk6dDoBdcrltaraafl0Cg5zTOs5wgn9ag90+wTQ=
+			</data>
+		</dict>
+		<key>recordingAndTranscriptionOn_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7Ba9bRYhYjY8TqpMwrbocK6EpKhUWsMG1pqNbkTxy44=
+			</data>
+		</dict>
+		<key>recordingAndTranscriptionOn_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l5/3MFAsQWKLNvB3CgMafAJP97GAo4GQui+aEfoOCbM=
+			</data>
+		</dict>
+		<key>recordingAndTranscriptionOn_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/27WlKhD1ZNKaK4TRzQ6VKX5A2q/Ff/GG1v+LNf3hxE=
+			</data>
+		</dict>
 		<key>recordingOff.mp3</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h+w4iVYoVLicZgD2g76BJXv+IplQRY1N8S7/6Mw2L2A=
+			/yYTDx6+1HJa44aN4TEER/Ihnhm3EZ/rPEnTuqbLpzI=
 			</data>
 		</dict>
 		<key>recordingOff.opus</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8ZX8yYmlHkDC9dtOv0j70BCF/aX6cgoZcCOAtw+yzuM=
+			dbs4tmN5zSf4h1j65O6tympXF+yKkJ6a0+1K6n5hKk8=
 			</data>
 		</dict>
 		<key>recordingOff_fr.mp3</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bLM8YLmSFILst2noaDYIDu8/iKfw28uLm1FxlvXltF4=
+			VzmssOSOQmkxJAZ4jMmSX/u+2+Ey3taIn6b0fXQzKZc=
 			</data>
 		</dict>
 		<key>recordingOff_fr.opus</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jZvnToDwuoAryPFcY02+o8o6/te8XI/1dMDbYRuWEhk=
+			E1EzQVJGAIeYliY6kZKkYqpbe8WbG9ftwcJ53iwdEsY=
 			</data>
 		</dict>
 		<key>recordingOff_frCA.mp3</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bLM8YLmSFILst2noaDYIDu8/iKfw28uLm1FxlvXltF4=
+			WBTjSpTFp7+nYWixAvxxNe7oOkTKsKsCrEGCFpZoRvc=
 			</data>
 		</dict>
 		<key>recordingOff_frCA.opus</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jZvnToDwuoAryPFcY02+o8o6/te8XI/1dMDbYRuWEhk=
+			tNTlQJ2A9S+Fol52K1XiAr12XargOyaKSYlYYIn2IW8=
 			</data>
 		</dict>
 		<key>recordingOn.mp3</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KV7YLNMe6q6NOVRnZwdh+cTbjRlZltpViIw0QIkdtoI=
+			qrNnGl+CR10mGF1fWJHbZvjm4s66Fx+FK1QXgUEH0os=
 			</data>
 		</dict>
 		<key>recordingOn.opus</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Da2Txd66aJAnIlhCJVMC0UeyBb9BrbS+LTPEx/jqjLw=
+			CFvyG9+pUGIAdgwi+FnuCgStyUjjFg8cDlZeoI++C2Y=
 			</data>
 		</dict>
 		<key>recordingOn_fr.mp3</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/yVx4eOlkzXOBDjo9z8zbhA6RYLKLl61x9v7fMPqHJ4=
+			xQ/uf6sT9RS+qF028Z19P5dMdFxi0XjMhPPsCN/mPFI=
 			</data>
 		</dict>
 		<key>recordingOn_fr.opus</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5L3pketVbKY9wqr9ss9yV98jLnbb0XpF/R+H4BSoXMc=
+			rSCjONpoXWuRnWP/fT7PgjMtzG0Ro1kQmWd/sAHxhHk=
 			</data>
 		</dict>
 		<key>recordingOn_frCA.mp3</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/yVx4eOlkzXOBDjo9z8zbhA6RYLKLl61x9v7fMPqHJ4=
+			SpXBR8381kpNxZ0YBYocW95sJh26NQBus9ecBL+Mmfk=
 			</data>
 		</dict>
 		<key>recordingOn_frCA.opus</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5L3pketVbKY9wqr9ss9yV98jLnbb0XpF/R+H4BSoXMc=
+			VpE8f5AsZ/9FtyEmGrtlmhSY7mK7VsS6y60TRRFn8iE=
 			</data>
 		</dict>
 		<key>rejected.mp3</key>
@@ -1538,6 +1718,90 @@
 			<key>hash2</key>
 			<data>
 			qeIe9m2S+0fXuk/wtx7o4IiYfZbhW7mT9hWZ6Am+KO0=
+			</data>
+		</dict>
+		<key>transcriptionOff.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			clfpsXw5lMHGbawuMFv7DlnQblgtgOCPHuS2vr24li4=
+			</data>
+		</dict>
+		<key>transcriptionOff.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ix+LARpKul4pmPiGoaG9H5EKtBgNk/0ZVVQCAj9CHNE=
+			</data>
+		</dict>
+		<key>transcriptionOff_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x5M5P8G2iFcG5vdDTkvwUEcZ8GrWlYjgJMNB5PSK57M=
+			</data>
+		</dict>
+		<key>transcriptionOff_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Bz1J8SbWrdqRyOd+aRSdSMnrfcLb0PwGS/Kk96Dzdd4=
+			</data>
+		</dict>
+		<key>transcriptionOff_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rqzI9OK/4ITHQt9mkBhZaUkg1yeeQiO2oPpdVGgD5DM=
+			</data>
+		</dict>
+		<key>transcriptionOff_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sdzdqnfChYEIRiGQQMMLl3JXmcBnt6E/uiZN7djhy+s=
+			</data>
+		</dict>
+		<key>transcriptionOn.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aKkOHgAFXOOdWZeuLqBf+Jmx2QlmphTyN0WeoEaFkcg=
+			</data>
+		</dict>
+		<key>transcriptionOn.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yRjk5Z4foNn9Rfji/1AxLAgPdwKAU9BkF67SDJ4oU+g=
+			</data>
+		</dict>
+		<key>transcriptionOn_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jhzAwcjzGoOD4JP6i6hIV1vqrEsfOm2vpBRsa2eW0Qk=
+			</data>
+		</dict>
+		<key>transcriptionOn_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RUbT0+xzmkXKraqmB22mEVoqs5ZzlBHj21W/eEXLtCk=
+			</data>
+		</dict>
+		<key>transcriptionOn_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xb61WyTZ7BkKfNBrI6cP3soyVggZpiy44eG4DWPP19Y=
+			</data>
+		</dict>
+		<key>transcriptionOn_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AXZEevgcbj17S1tZi7U2qcdKZtLqSObLbMvVGRE24Fc=
 			</data>
 		</dict>
 	</dict>
