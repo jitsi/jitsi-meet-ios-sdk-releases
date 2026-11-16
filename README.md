@@ -7,6 +7,8 @@ release is tagged in this repository and is composed of following framework:
 
 ## Using the SDK
 
+### CocoaPods
+
 The recommended way for using the SDK is by using [CocoaPods](). In order to
 do so, add the `JitsiMeetSDK` dependency to your existing `Podfile` or create
 a new one following this example:
@@ -40,6 +42,18 @@ background modes.
 Last, since the SDK shows and hides the status bar based on the conference state,
 you may want to set `UIViewControllerBasedStatusBarAppearance` to `NO` in your
 `Info.plist` file.
+
+### Swift Package Manager (SPM)
+
+Choose **only one** product: `JitsiMeetSDK` **or** `JitsiMeetSDKLite`.
+**Do not add both products to the same target/app.**
+
+#### **JitsiMeetSDKLite**
+
+Do not use a full release tag such as `13.3.1` for `JitsiMeetSDKLite`. 
+At a full tag like `13.3.1`, `lite/Frameworks` still contains the previous Lite build, 
+because the Lite release is committed after the full release. 
+Always use the matching `-lite` tag instead.
 
 ## API
 

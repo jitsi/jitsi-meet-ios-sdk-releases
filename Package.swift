@@ -38,7 +38,6 @@ let package = Package(
             ],
             path: "Sources"
         ),
-        
         .binaryTarget(
             name: "JitsiMeetSDKLite",
             path: "lite/Frameworks/JitsiMeetSDK.xcframework"
