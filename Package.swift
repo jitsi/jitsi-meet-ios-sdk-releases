@@ -17,7 +17,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/jitsi/webrtc", from: "155.0.0"),
-        .package(url: "https://github.com/Giphy/giphy-ios-sdk", from: "2.2.12")
+        .package(url: "https://github.com/Giphy/giphy-ios-sdk", from: "2.2.16")
     ],
     targets: [
         .binaryTarget(
